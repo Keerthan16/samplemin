@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "J3V+49r9QVv474uFnkQ4s5CgxjVr2xvT1R8O7/tE4Ebq/Z3weYcTH1z5I/lUtP8BwqA5AyobA/O9XHjJeXpthQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Keerthan Rai\\source\\repos\\Miniproject\\Miniproject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Keerthan Rai\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
+    "C:\\Users\\Keerthan Rai\\.nuget\\packages\\lumenworks.framework.io\\3.8.0\\lumenworks.framework.io.3.8.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'LumenWorks.Framework.IO 3.8.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "LumenWorks.Framework.IO",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
